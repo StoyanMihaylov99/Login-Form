@@ -1,0 +1,14 @@
+body{
+    background-color: #03a9f4;
+}
+
+.anybutton {
+    top:11%;
+    left:55%;
+    width:100px;
+    height:40px;
+    position: absolute;
+    z-index: 2;
+    background: white;
+}
+
